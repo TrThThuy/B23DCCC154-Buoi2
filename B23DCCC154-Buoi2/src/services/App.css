@@ -1,0 +1,41 @@
+.danh-sach-hang-hoa {
+    padding: 20px;
+  }
+  
+  .hang-hoa {
+    margin: 10px 0;
+  }
+  
+  .nut-sua {
+    background-color: #4CAF50;
+    color: white;
+    margin-right: 5px;
+  }
+  
+  .nut-xoa {
+    background-color: #f44336;
+    color: white;
+  }
+  
+  .form-hang-hoa {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  .ten-hang-hoa {
+    margin-bottom: 5px;
+  }
+  
+  .nhap-ten-hang-hoa {
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .nut-luu {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px;
+  }
+  
